@@ -1,3 +1,51 @@
+@font-face {
+  font-family: MuseoSans;
+  src: url (".../Fonts/MuseoSans.eot")
+}
+@font-face {
+  font-family: MuseoSans;
+  src: url (".../Fonts/MuseoSans.otf")
+}
+@font-face {
+  font-family: MuseoSans;
+  src: url (".../Fonts/MuseoSans.eot")
+}
+@font-face {
+  font-family: MuseoSans;
+  src: url (".../Fonts/MuseoSans.eot")
+}
+
+.container-fluid {
+  width:100%;
+  height: auto;
+}
+
+.container {
+  margin: 0 auto;
+  width:1160px;
+  height: auto;
+}
+
+.pull-left {
+  float:left;
+}
+  
+ .pull-right {
+  float:right;
+}
+
+.text-center {
+  text-aligh: center;
+}
+
+.text-white{
+  color: white;
+}
+
+.fix {
+  overflow: hidden;
+}
+
 .topbar_wrapper {
 }
 
