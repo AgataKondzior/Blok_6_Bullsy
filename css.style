@@ -1,18 +1,18 @@
 @font-face {
   font-family: MuseoSans;
-  src: url (".../Fonts/MuseoSans.eot");
+  src: url("../Fonts/MuseoSans.eot");
 }
 @font-face {
   font-family: MuseoSans;
-  src: url (".../Fonts/MuseoSans.otf");
+  src: url("../Fonts/MuseoSans.otf");
 }
 @font-face {
   font-family: MuseoSans;
-  src: url (".../Fonts/MuseoSans.eot");
+  src: url("../Fonts/MuseoSans.eot");
 }
 @font-face {
   font-family: MuseoSans;
-  src: url (".../Fonts/MuseoSans.eot");
+  src: url("../Fonts/MuseoSans.eot");
 }
 
 .container-fluid {
