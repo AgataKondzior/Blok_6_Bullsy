@@ -47,15 +47,28 @@
 }
 
 .topbar_wrapper {
+padding: 5px 0;
 }
 
 .topbar {
 }
 
 .contact {
+font-size:12px;
+font-family: MuseoSans;
 }
 
 .phone {
+margin-right:5px;
+}
+
+.phone > p {
+
+}
+
+.phone > p > img {
+width: 6px;
+margin-top: -4px;
 }
 
 .email {
