@@ -101,6 +101,7 @@ font-size: 14px;
 }
 
 .top_menu > ul > li > a:hover {
+  color: #666;
 }
 
 .header_wrapper {
