@@ -2,18 +2,12 @@
   font-family: MuseoSans;
   src: url("../Fonts/MuseoSans.eot");
 }
+
 @font-face {
   font-family: MuseoSans;
   src: url("../Fonts/MuseoSans.otf");
 }
-@font-face {
-  font-family: MuseoSans;
-  src: url("../Fonts/MuseoSans.eot");
-}
-@font-face {
-  font-family: MuseoSans;
-  src: url("../Fonts/MuseoSans.eot");
-}
+
 
 .container-fluid {
   width:100%;
@@ -84,7 +78,7 @@ margin-top: -4px;
 }
 
 .top_menu {
-  padding-top: 10px;
+  padding-top: 15px;
 }
 
 .top_menu > ul {
@@ -99,6 +93,11 @@ margin-top: -4px;
 }
 
 .top_menu > ul > li > a {
+display: block;
+text-decoration: none;
+color: #333;
+font-family: MuseoSans;
+font-size: 14px;
 }
 
 .top_menu > ul > li > a:hover {
