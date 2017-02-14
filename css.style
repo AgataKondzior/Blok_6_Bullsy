@@ -68,7 +68,7 @@ padding: 5px 0;
 
 .contact {
 font-size:12px;
-font-family: MuseoSans;
+font-family: m100;
 }
 
 .phone {
@@ -115,7 +115,7 @@ margin-top: -4px;
 display: block;
 text-decoration: none;
 color: #333;
-font-family: MuseoSans;
+font-family: m100;
 font-size: 14px;
 }
 
@@ -124,33 +124,113 @@ font-size: 14px;
 }
 
 .header_wrapper {
+	background: #f5f6f1;
+	padding: 40px 0;
+	margin-bottom: 40px;
 }
 
 .header {
 }
 
 .logo {
+	margin-right: 140px;
 }
 
 .logo_text {
 }
 
+.logo_text > h1 {
+	font-family: "fantasy", sans-serif;
+	color: #463f3a;
+	font-size: 34px;
+	margin: 0;
+	
+}
+
+.logo_text > p {
+	font-size: 9px;
+	font-weight: 600;
+	font-family: m300;
+	margin: 0;
+	padding: 0;
+	
+}
+
 .logo_icon {
 }
 
+.logo_icon > img{
+	padding-top: 7px;
+	padding-left: 10px;
+}
+
+
 .navigation {
+	padding-top: 20px;
+	
+}
+
+.navigation > ul {
+	list-style:none;
+	margin: 0;
+	padding: 0;
+	
+}
+
+.navigation > ul > li {
+	display: inline-block;
+	margin-left: 10px;	
+}
+
+.navigation > ul > li > a{
+	display: block;
+	color: #444;
+	text-decoration: none;
+	font-family: m500;
+	
+}
+
+.navigation > ul > li > a:hover{
+		color: #666;
 }
 
 .slash {
+	color:#e65753;
+	font-weight: bold;
+	
 }
 
-.cart {
-}
+
 
 .cart_text {
+	margin-right: 15px;
+
+}
+
+
+
+.cart_text > p {
+	margin: 0;
+	font-family: m300;
+	color: #333;
+	
+}
+
+.cart_text > h4 { 
+	margin: 0;
+	color: #222;
+	
+
 }
 
 .cart_icon {
+}
+
+.cart_icon > img{
+	width: 45px;
+	padding-top: 5px;
+	
+	
 }
 
 .slider_wrapper {
