@@ -297,16 +297,12 @@ font-size: 14px;
 	background: #f5f6f1;
 	margin-right: 20px;
 	padding: 15px;
-	width: 336px;
+	width: 340px;
 	text-align: center;
 }
 
 .service:last-child {
-	background: #f5f6f1;
 	margin-right: 0px;
-	padding: 15px;
-	width: 336px;
-	text-align: center;
 }
 
 .service > h1 {
