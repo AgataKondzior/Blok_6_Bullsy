@@ -437,7 +437,7 @@ font-size: 14px;
 
 .two_wrapper {
 	margin-right: 20px;
-	width: 373px;
+	width: 272px;
 	
 }
 
@@ -511,12 +511,12 @@ font-size: 14px;
 
 .three_wrapper {
 	margin-right: 20px;
-	width: 373px;	
+	width: 272px;	
 }
 
 .three_wrapper:last-child {
 	margin-right: 0px;
-	width: 270px;	
+		
 }
 
 .three_wrapper > img {
@@ -533,7 +533,7 @@ font-size: 14px;
 .blog {}
 
 .four_wrapper {
-	width:373px;
+	width:272px;
 	margin-right:20px;
 }
 
